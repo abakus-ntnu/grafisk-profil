@@ -1,0 +1,7 @@
+colors:
+ - name: abakus-red
+   hex: b11b11
+   rgb: rgb(177, 27, 17)
+ - name: abakus-gray
+   hex: 262323
+   rgb: rgb(38, 35, 35)

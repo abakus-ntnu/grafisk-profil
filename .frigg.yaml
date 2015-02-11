@@ -1,0 +1,5 @@
+tasks:
+ - npm install
+ - sass stylesheets/abakus.sass
+ - node_modules/.bin/stylus stylesheets/abakus.styl
+ - node_modules/.bin/lessc stylesheets/abakus.less
