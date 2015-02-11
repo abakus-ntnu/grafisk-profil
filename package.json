@@ -1,0 +1,22 @@
+{
+  "name": "grafisk-profil",
+  "version": "0.1.0",
+  "description": "Her finner du diverse hjelpefiler for å følge Abakus' grafiske profil.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abakus-ntnu/grafisk-profil.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/abakus-ntnu/grafisk-profil/issues"
+  },
+  "homepage": "https://github.com/abakus-ntnu/grafisk-profil",
+  "devDependencies": {
+    "less": "^2.4.0",
+    "stylus": "^0.50.0"
+  }
+}
