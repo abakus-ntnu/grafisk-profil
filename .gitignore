@@ -2,3 +2,6 @@ stylesheets/abakus.css
 
 .sass-cache
 node_modules
+
+.DS_STORE
+
